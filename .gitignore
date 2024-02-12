@@ -1,0 +1,57 @@
+# Archivos de compilación de Android
+android/app/*.iml
+android/app/.cxx/
+
+# Archivos de compilación de Gradle
+android/build/
+android/gradle/
+android/.gradle/
+android/local.properties
+
+# Archivos de compilación de iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/flutter_project.podspec
+
+# Archivos de compilación de macOS
+macos/Flutter/Flutter.podspec
+macos/Flutter/Generated.xcconfig
+macos/Flutter/flutter_assets/
+macos/Flutter/flutter_export_environment.sh
+macos/build/
+
+# Archivos de compilación de Windows
+windows/flutter/flutter_assets/
+windows/flutter/flutter_export_environment.bat
+windows/flutter/flutter_project.vcxproj
+windows/flutter/flutter_project.vcxproj.filters
+windows/flutter/flutter_project.vcxproj.user
+windows/flutter/flutter_project.vcxproj.vscode
+windows/flutter/ephemeral/
+windows/flutter/flutter_windows.dll
+windows/flutter/flutter_windows.dll.exp
+windows/flutter/flutter_windows.dll.lib
+windows/flutter/flutter_windows.dll.pdb
+windows/flutter/flutter_windows.exe
+windows/flutter/flutter_windows.vcxproj
+windows/flutter/flutter_windows.vcxproj.filters
+windows/flutter/flutter_windows.vcxproj.user
+windows/flutter/flutter_windows.vcxproj.vscode
+windows/runner/flutter_assets/
+windows/runner/flutter_export_environment.bat
+windows/runner/ephemeral/
+windows/runner/GeneratedPluginRegistrant.*
+
+# Otros archivos y directorios generados durante la compilación
+build/
+.packages
+.dart_tool/
+.pub/
+*.lock
+.DS_Store
